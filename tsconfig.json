@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "removeComments": true,
+    "declaration": true,
+    "listFiles": true,
+    "outDir": "./libs",
+    "sourceMap": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "small-tools",
+  "version": "1.0.0",
+  "repository": "git@github.com:YuanBingrui/small-tools.git",
+  "author": "xiaobaijun <bingrui_yuan0721@163.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.2.1",
+    "eslint-plugin-typescript": "^0.14.0",
+    "typescript": "^3.5.3",
+    "typescript-eslint-parser": "^22.0.0"
+  }
+}
